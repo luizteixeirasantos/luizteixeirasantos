@@ -22,20 +22,24 @@ Me chamo Luiz H. Teixeira Santos e atualmente curso Informática para Internet n
   <img align="center" alt="Luiz-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
-  ##
- 
+##
 
+### 📊 Estatísticas
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=luizteixeirasantos&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=luizteixeirasantos&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=luizteixeirasantos&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=luizteixeirasantos&show_icons=true" />
-</picture>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizteixeirasantos&layout=compact&theme=dark)
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizteixeirasantos&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
