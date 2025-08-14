@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Backend `**
 
-Me chamo Luiz H. Teixeira Santos e atualmente curso Informática para Internet no CEFET-MG. Sempre tive afinidade por resolver problemas e, aliado à minha curiosidade por tecnologia, isso me levou ao universo da programação. Hoje, sigo aprimorando minhas habilidades com foco em desenvolvimento backend.
+Me chamo Luiz Henrique e atualmente curso Informática para Internet no CEFET-MG. Sempre tive afinidade por resolver problemas e, aliado à minha curiosidade por tecnologia, isso me levou ao universo da programação. Hoje, sigo aprimorando minhas habilidades com foco em desenvolvimento backend.
 
 <div> 
   <a href="https://instagram.com/luiz_henrique_ts" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
