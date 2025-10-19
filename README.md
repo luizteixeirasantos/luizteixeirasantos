@@ -3,7 +3,9 @@
 <br>
 
 <div align="center">
-  <img align="center" height="150" src="https://imgur.com/gallery/wolf-background-3N4Zj5g#UqsI2jw.png" />
+  <!-- <img align="center" height="250" src="https://imgur.com/LgE0n4i.png" /> -->
+  <img align="center" height="250" src="https://imgur.com/f9UjNoC.png" />
+  <!-- <img align="center" height="250" src="https://imgur.com/U9a5nWW.png" /> -->
 </div>
 
 <div align="center">
@@ -28,6 +30,8 @@
   <img height=180 align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizteixeirasantos&layout=compact&font=Iosevka&langs_count=16&theme=ayu-mirage"/>
   <br>
   <br>
+  <!-- <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=luizteixeirasantos&theme=chartreuse_dark&utcOffset=8"/>
+  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=luizteixeirasantos&theme=chartreuse_dark"/> -->
   <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luizteixeirasantos&theme=ayu_mirage"/>
 </div>
 
@@ -68,9 +72,9 @@
   <br>
   <br>
 
-[![Gmail](https://img.shields.io/badge/Gmail-755b25?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:luiz.hh200@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-755b25?style=for-the-badge&logo=instagram&logoColor=fff)](https://instagram.com/luiz_henrique_ts)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-755b25?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/luizteixeirasantos)
+[![Gmail](https://img.shields.io/badge/Gmail-755b25?style=for-the-badge&logo=gmail&logoColor=fff&color=006414)](mailto:contatoluizhteixeira@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-755b25?style=for-the-badge&logo=instagram&logoColor=fff&color=006414)](https://instagram.com/luiz_henrique_ts)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-755b25?style=for-the-badge&logo=linkedin&logoColor=fff&color=006414)](https://www.linkedin.com/in/luizteixeirasantos)
 
 </div>
 
@@ -83,7 +87,7 @@
 <br>
 
 <div align="center">
-  <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=luizteixeirasantos&abbreviated=true&style=flat-square&color=755b25" /></p> 
+  <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=luizteixeirasantos&abbreviated=true&style=flat-square&color=006414" /></p> 
 </div>
 
 <br>
