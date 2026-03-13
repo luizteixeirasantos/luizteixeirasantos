@@ -3,9 +3,7 @@
 <br>
 
 <div align="center">
-  <!-- <img align="center" height="250" src="https://imgur.com/LgE0n4i.png" /> -->
-  <img align="center" height="250" src="https://imgur.com/a/hacker-xsddgrt" />
-  <!-- <img align="center" height="250" src="https://imgur.com/U9a5nWW.png" /> -->
+  <img align="center" height="250" src="https://imgur.com/3wl6XDX.png" />
 </div>
 
 <div align="center">
