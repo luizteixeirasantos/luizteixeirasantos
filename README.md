@@ -74,7 +74,7 @@
 [![Portfólio](https://img.shields.io/badge/Portifólio-755b25?style=for-the-badge&logo=vite&logoColor=fff&color=006414)](https://luizhenrique-portfolio.vercel.app/)
 [![Gmail](https://img.shields.io/badge/Gmail-755b25?style=for-the-badge&logo=gmail&logoColor=fff&color=006414)](mailto:contatoluizhteixeira@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-755b25?style=for-the-badge&logo=instagram&logoColor=fff&color=006414)](https://instagram.com/luiz_henrique_ts)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-755b25?style=for-the-badge&logo=linkedin&logoColor=fff&color=006414)](https://www.linkedin.com/in/luizteixeirasantos)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-755b25?style=for-the-badge&logo=linkedin&logoColor=fff&color=006414)](https://www.linkedin.com/in/luizh-developer)
 
 </div>
 
