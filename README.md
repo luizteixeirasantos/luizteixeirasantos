@@ -36,9 +36,17 @@
 <br>
 
 <div align="center">
-  <img height=180 align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=luizteixeirasantos&show_icons=true&count_private=true&rank_icon=github&theme=ayu-mirage&font=Iosevka"/>
-  <img height=180 align="center" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizteixeirasantos&layout=compact&font=Iosevka&langs_count=16&theme=ayu-mirage"/>
-  <img height=180 align="center" alt="Profile Details" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luizteixeirasantos&theme=ayu_mirage"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=luizteixeirasantos&show_icons=true&count_private=true&rank_icon=github&theme=ayu-mirage&font=Iosevka" />
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=luizteixeirasantos&theme=ayu-mirage&hide_border=true" />
+</div>
+
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizteixeirasantos&layout=compact&font=Iosevka&langs_count=16&theme=ayu-mirage" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luizteixeirasantos&theme=ayu_mirage" />
+</div>
+
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=luizteixeirasantos&theme=react-dark&bg_color=0d1117&hide_border=true&color=64c27b" alt="Activity Graph" />
 </div>
 
 <br>
